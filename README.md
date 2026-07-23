@@ -1,29 +1,17 @@
-# Personal Portfolio
-
-A responsive personal portfolio website built using HTML, CSS, and JavaScript.
-
-## Features
-
-- Responsive design
-- Clean and modern interface
-- Interactive navigation
-- Custom styling
-- Mobile-friendly layout
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Live Demo
-
-Coming Soon
-
 ## Screenshots
 
-Coming Soon
+### Home
 
-## Author
+![Homepage](screenshots/homepage.png)
 
-Sivana Thilak
+### About
+
+![About](screenshots/about.png)
+
+### Projects
+
+![Projects](screenshots/projects.png)
+
+### Contact
+
+![Contact](screenshots/contact.png)
